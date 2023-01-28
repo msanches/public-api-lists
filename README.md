@@ -502,7 +502,7 @@ For information on contributing to this project, please see the [contributing gu
 |       [Jokes](https://github.com/15Dkatz/official_joke_api)       | Programming and general jokes                                              |       No        |  Yes  | Unknown |
 |                  [Jservice](http://jservice.io)                   | Jeopardy Question Database                                                 |       No        |  No   | Unknown |
 |        [Magic The Gathering](http://magicthegathering.io/)        | Magic The Gathering Game Information                                       |       No        |  No   | Unknown |
-|               [Marvel]https://developer.marvel.com/docs)          | Marvel Comics                                                              |    `apiKey`     |  No   | Unknown |
+|               [Marvel](https://developer.marvel.com/docs)          | Marvel Comics                                                              |    `apiKey`     |  No   | Unknown |
 |                   [mod.io](https://docs.mod.io)                   | Cross Platform Mod API                                                     |    `apiKey`     |  Yes  | Unknown |
 |         [Open Trivia](https://opentdb.com/api_config.php)         | Trivia Questions                                                           |       No        |  Yes  | Unknown |
 |              [PandaScore](https://api.pandascore.co)              | E-sports games and results                                                 |    `apiKey`     |  Yes  | Unknown |
